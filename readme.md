@@ -1,1 +1,1 @@
-![Image text](python.jpg)
+![Image](python.jpg)
