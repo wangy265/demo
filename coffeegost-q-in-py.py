@@ -4,6 +4,7 @@
 import os
 
 def main():
+    
     print ('hello world')
 
     print ('这是wangy265\'的问候')
